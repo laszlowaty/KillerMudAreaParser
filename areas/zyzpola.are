@@ -1,0 +1,584 @@
+Problem in area areas/area.lst. Skipping
+Problem in area areas/copyover.data. Skipping
+Problem in area areas/help.are. Skipping
+Problem in area areas/helpblk.are. Skipping
+Problem in area areas/helpcle.are. Skipping
+Problem in area areas/helpdru.are. Skipping
+Problem in area areas/helpmag.are. Skipping
+Problem in area areas/move.vnum.sh. Skipping
+Problem in area areas/olc.hlp. Skipping
+Problem in area areas/skills.are. Skipping
+Problem in area areas/social.are. Skipping
+Problem in area areas/win2iso.pl. Skipping
+Problem in area areas/wymieniaj.sh. Skipping
+===Name:niepozorna ksiega===
+Area:+# Miasto Arras
+Vnum:6149
+Type:spellbook
+Loads in mprog:['kleryst_ksi']
+Loads in area:['+# Miasto Arras']
+===Name:ksiêga ochrony przed zimnem===
+Area:+# Kontynuacje Arras
+Vnum:2319
+Type:spellbook
+Loads in mprog:['emelieen_death']
+Loads in area:['+# Miasto Arras']
+===Name:modlitewnik ochrony przed zimnem===
+Area:+# Kontynuacje Arras
+Vnum:2320
+Type:spellbook
+Loads in mprog:['emelieen_death']
+Loads in area:['+# Miasto Arras']
+===Name:zielona ksiêga ochrony przed zimnem===
+Area:+# Kontynuacje Arras
+Vnum:2321
+Type:spellbook
+Loads in mprog:['emelieen_death']
+Loads in area:['+# Miasto Arras']
+===Name:modlitewnik ochrony przed kwasem===
+Area:+# Arrasyjska Szko³a Magii
+Vnum:26966
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:modlitewnik ochrony przed kwasem===
+Area:+# Arrasyjska Szko³a Magii
+Vnum:26967
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:ksiêga ochrony przed kwasem===
+Area:+# Arrasyjska Szko³a Magii
+Vnum:26968
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:Ksiêga z magicznym zaklêciem "¦wiat³o"===
+Area:+# Arrasyjska Szko³a Magii
+Vnum:26984
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:zwój dziekana===
+Area:+# Biblioteka Naukowa
+Vnum:1322
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:zdobiona ksiega===
+Area:+# Biblioteka Naukowa
+Vnum:1331
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:ksiêga mocy===
+Area:+# Biblioteka Naukowa
+Vnum:1354
+Type:spellbook
+Loads in mprog:['1303']
+Loads in area:['+# Biblioteka Naukowa']
+===Name:podrêcznik magii===
+Area:+# Biblioteka Naukowa
+Vnum:1400
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:ksi±¿ka z podstawami magii===
+Area:+# Biblioteka Naukowa
+Vnum:1401
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:brudna ksiêga===
+Area:+# Biblioteka Naukowa
+Vnum:1402
+Type:spellbook
+Loads in mprog:['5647', '2501']
+Loads in area:['+# Dziwny las', '+# Wyspa ob³±kanych']
+===Name:po¿ó³k³a ksiêga===
+Area:+# Biblioteka Naukowa
+Vnum:1403
+Type:spellbook
+Loads in mprog:['14012_pyl', '14012_pyl', '14034']
+Loads in area:['+# Cmentarz', '+# Cmentarz', '+# Cmentarz']
+===Name:ciemnoszara ksiêga===
+Area:+# Biblioteka Naukowa
+Vnum:1404
+Type:spellbook
+Loads in mprog:['upadly_stroj']
+Loads in area:['+# Warownia Grazla']
+===Name:ksiêga elementów===
+Area:+# Biblioteka Naukowa
+Vnum:1405
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:ksiêga czarów===
+Area:+# Biblioteka Naukowa
+Vnum:1406
+Type:spellbook
+Loads in mprog:['17185', '33516']
+Loads in area:['+# Kamienice w Krasnoludzkiej Fortecy', "+# Zajazd 'Pod zatrut± strza³±'"]
+===Name:niezniszczona ksiêga===
+Area:+# Biblioteka Naukowa
+Vnum:1407
+Type:spellbook
+Loads in mprog:['9317', '14016', '14034', '27666', '27574', '10809_onload']
+Loads in area:['+# Smocze legowisko', '+# Cmentarz', '+# Cmentarz', '+# Obóz wojskowy', '+#Podmrok - Seeyma', '+# Dziwny Zajazd Kraken']
+===Name:staro¿ytna ksiêga===
+Area:+# Biblioteka Naukowa
+Vnum:1409
+Type:spellbook
+Loads in mprog:['9320']
+Loads in area:['+# Smocze legowisko']
+===Name:czarna ksiêga modlitw===
+Area:+# Charm w puszczy pod Carrallak
+Vnum:3908
+Type:spellbook
+Loads in mprog:['3902']
+Loads in area:['+# Charm w puszczy pod Carrallak']
+===Name:modlitewnik zdobiony runami===
+Area:+# Carrallak - ¦wi±tynia Portena
+Vnum:934
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:magiczna ksiêga z czarem '¶wiat³o'===
+Area:+# Carrallak
+Vnum:585
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:kap³añska ksiêga z czarem '¶wiat³o'===
+Area:+# Carrallak
+Vnum:586
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:okr±g³a ksiêga===
+Area:+# Carrallak - obwodnica i droga
+Vnum:11845
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:ogromny tom magii tajemnej===
+Area:+# Carrallak - obwodnica i droga
+Vnum:11846
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:zbiór magicznych notatek===
+Area:+# Carrallak - obwodnica i droga
+Vnum:11847
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:¿ó³ta ksiêga===
+Area:+# Carrallak - obwodnica i droga
+Vnum:11848
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:opas³y tom wiedzy===
+Area:+# Carrallak - obwodnica i droga
+Vnum:11849
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:prastary wolumin===
+Area:+# Carrallak - obwodnica i droga
+Vnum:11850
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:po¿ó³k³y tomik===
+Area:+# Carrallak - obwodnica i droga
+Vnum:11851
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:malutka ksi±¿eczka===
+Area:+# Carrallak - obwodnica i droga
+Vnum:11852
+Type:spellbook
+Loads in mprog:['43708']
+Loads in area:['+# Kana³y pod Arras II']
+===Name:w³ochata ksiêga===
+Area:+# Carrallak - obwodnica i droga
+Vnum:11853
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:prastara ksiêga===
+Area:+# Smocze legowisko
+Vnum:9303
+Type:spellbook
+Loads in mprog:['9320']
+Loads in area:['+# Smocze legowisko']
+===Name:kap³añska ksiêga===
+Area:B @# NK - Równiny centaurów
+Vnum:1210
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:niepozorny modlitewnik===
+Area:+# Cmentarz
+Vnum:2015
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:ksiêga ochrony przed ogniem===
+Area:+# Cmentarz
+Vnum:2016
+Type:spellbook
+Loads in mprog:['71_death']
+Loads in area:['+# Krasnoludzka Forteca']
+===Name:modlitewnik ochrony przed ogniem===
+Area:+# Cmentarz
+Vnum:2017
+Type:spellbook
+Loads in mprog:['71_death']
+Loads in area:['+# Krasnoludzka Forteca']
+===Name:modlitewnik ochrony przed ogniem===
+Area:+# Cmentarz
+Vnum:2018
+Type:spellbook
+Loads in mprog:['71_death']
+Loads in area:['+# Krasnoludzka Forteca']
+===Name:ksiêga czarów===
+Area:+# Cmentarz
+Vnum:2022
+Type:spellbook
+Loads in mprog:['2022']
+Loads in area:['+# Cmentarz']
+===Name:ksiêga oprawiona w skórê===
+Area:+# Cmentarz
+Vnum:2058
+Type:spellbook
+Loads in mprog:['2060']
+Loads in area:['+# Cmentarz']
+===Name:stara ksiega===
+Area:+# Twierdza Szkar³atnych P³aszczy
+Vnum:885
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:ksiêga zaklêæ===
+Area:+# Cmentarz
+Vnum:14020
+Type:spellbook
+Loads in mprog:['2501']
+Loads in area:['+# Wyspa ob³±kanych']
+===Name:ksiêga zaklêæ===
+Area:+# Cmentarz
+Vnum:14060
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:ksiêga czarów===
+Area:+# Cmentarz
+Vnum:14062
+Type:spellbook
+Loads in mprog:['17185']
+Loads in area:['+# Kamienice w Krasnoludzkiej Fortecy']
+===Name:magiczna ksiêga z czarem 'kwasowy podmuch'===
+Area:+# Cmentarz
+Vnum:14070
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:ksiêga mocy===
+Area:+# Cmentarz
+Vnum:14071
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:ksiêga czarów===
+Area:+# Cmentarz
+Vnum:14072
+Type:spellbook
+Loads in mprog:['14016']
+Loads in area:['+# Cmentarz']
+===Name:ksiêga czarów===
+Area:+# Cmentarz
+Vnum:14074
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:ksiêga nekromancji===
+Area:+# Cmentarz
+Vnum:14075
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:opas³a ksiêga===
+Area:+# Cmentarz
+Vnum:14076
+Type:spellbook
+Loads in mprog:['27574']
+Loads in area:['+#Podmrok - Seeyma']
+===Name:ksiêga mocy===
+Area:+# Cmentarz
+Vnum:14077
+Type:spellbook
+Loads in mprog:['9317']
+Loads in area:['+# Smocze legowisko']
+===Name:ksiêga mocy===
+Area:+# Cmentarz
+Vnum:14078
+Type:spellbook
+Loads in mprog:['14034']
+Loads in area:['+# Cmentarz']
+===Name:magiczna ksiêga===
+Area:+# Cmentarz
+Vnum:14079
+Type:spellbook
+Loads in mprog:['27666']
+Loads in area:['+# Obóz wojskowy']
+===Name:ksiêga boskich inwokacji===
+Area:+# Cmentarz
+Vnum:14080
+Type:spellbook
+Loads in mprog:['q_kapl_give']
+Loads in area:['+# Cmentarz']
+===Name:zielona ksiêga===
+Area:+# Druidzki Kr±g
+Vnum:1664
+Type:spellbook
+Loads in mprog:['druid_woj_onl']
+Loads in area:['+# Carrallak - obwodnica i droga']
+===Name:poplamiona ksiêga===
+Area:+# Druidzki Kr±g
+Vnum:1665
+Type:spellbook
+Loads in mprog:['11803truciciel']
+Loads in area:['+# Carrallak - obwodnica i droga']
+===Name:pobrudzona ksiêga===
+Area:+# Druidzki Kr±g
+Vnum:1666
+Type:spellbook
+Loads in mprog:['equip_p_d']
+Loads in area:['+# Spalona Wie¶']
+===Name:bagienna ksiêga===
+Area:+# Druidzki Kr±g
+Vnum:1667
+Type:spellbook
+Loads in mprog:['bagienna_death']
+Loads in area:['+# ¦cie¿ka przez moczary']
+===Name:poszarpana zielona ksiêga===
+Area:+# Druidzki Kr±g
+Vnum:1668
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:zielona ksiêga===
+Area:+# Druidzki Kr±g
+Vnum:1669
+Type:spellbook
+Loads in mprog:['11806_death']
+Loads in area:['+# Carrallak - obwodnica i droga']
+===Name:zielona ksiêga===
+Area:+# Druidzki Kr±g
+Vnum:1670
+Type:spellbook
+Loads in mprog:['1660', 'druidzi_krag', 'druidzi_krag', 'druidzi_grupa']
+Loads in area:['+# Druidzki Kr±g', '+# Druidzki Kr±g', '+# Druidzki Kr±g', '+# Druidzki Kr±g']
+===Name:podniszczona ksiêga===
+Area:+# Druidzki Kr±g
+Vnum:1671
+Type:spellbook
+Loads in mprog:['11810_onload']
+Loads in area:['+# Carrallak - obwodnica i droga']
+===Name:zielona ksiêga===
+Area:+# Druidzki Kr±g
+Vnum:1672
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:zielona ksiêga===
+Area:+# Druidzki Kr±g
+Vnum:1673
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:ksiêga mocy===
+Area:+# Osada barbarzyñców + grobowiec
+Vnum:10957
+Type:spellbook
+Loads in mprog:['10953', '10953', '10953', '10953']
+Loads in area:['+# Osada barbarzyñców + grobowiec', '+# Osada barbarzyñców + grobowiec', '+# Osada barbarzyñców + grobowiec', '+# Osada barbarzyñców + grobowiec']
+===Name:stara ksiêga===
+Area:B @# NK Rozwalony galeon
+Vnum:8863
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:stara ksiêga===
+Area:+# Wiocha krasnali
+Vnum:2124
+Type:spellbook
+Loads in mprog:['2101']
+Loads in area:['+# Wiocha krasnali']
+===Name:zakurzona ksiêga===
+Area:+# Lasek i podziemia
+Vnum:3707
+Type:spellbook
+Loads in mprog:['3720']
+Loads in area:['+# Lasek i podziemia']
+===Name:ksiêga wiedzy===
+Area:+# Lasek i podziemia
+Vnum:3734
+Type:spellbook
+Loads in mprog:['widm_kap_onload']
+Loads in area:['+# Lasek i podziemia']
+===Name:zielona ksiêga===
+Area:+# Le¶ne sanktuarium
+Vnum:24984
+Type:spellbook
+Loads in mprog:['24973']
+Loads in area:['+# Le¶ne sanktuarium']
+===Name:ksiêga zaklêæ magicznych===
+Area:+# Magiczna jaskinia
+Vnum:2895
+Type:spellbook
+Loads in mprog:['2893']
+Loads in area:['+# Magiczna jaskinia']
+===Name:szara ksiêga===
+Area:+# Martwe stepy
+Vnum:6906
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:ciemnozielona ksiêga===
+Area:+# Ogrowisko - Orkowisko
+Vnum:8220
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:piaskowa ksiêga===
+Area:+# Koszmary Pustyni Kaan-ar
+Vnum:6607
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:zielona ksiêga===
+Area:+# Rezerwuar wspólny
+Vnum:3260
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:zielona ksiêga===
+Area:+# Dziwny Las
+Vnum:3658
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:kap³añska ksiêga===
+Area:+  Cmentarz upad³ych
+Vnum:5112
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:plugawa ksiêga===
+Area:+  Cmentarz upad³ych
+Vnum:5113
+Type:spellbook
+Loads in mprog:['5114']
+Loads in area:['+  Cmentarz upad³ych']
+===Name:ksiêga ochrony przed elektryczno¶ci±===
+Area:+# Carrallak - ¦wi±tynia boga obra¿onego
+Vnum:9352
+Type:spellbook
+Loads in mprog:['syn_czar_give']
+Loads in area:['+# Carrallak']
+===Name:ksiêga ochrony przed elektryczno¶ci±===
+Area:+# Carrallak - ¦wi±tynia boga obra¿onego
+Vnum:9353
+Type:spellbook
+Loads in mprog:['syn_czar_give']
+Loads in area:['+# Carrallak']
+===Name:ksiêga ochrony przed elektryczno¶ci±===
+Area:+# Carrallak - ¦wi±tynia boga obra¿onego
+Vnum:9354
+Type:spellbook
+Loads in mprog:['syn_czar_give']
+Loads in area:['+# Carrallak']
+===Name:stara ksiêga===
+Area:+# ¦wiêta Góra
+Vnum:1769
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:staro¿ytna ksiêga===
+Area:+# ¦wiêta Góra
+Vnum:1811
+Type:spellbook
+Loads in mprog:['kosciany_death']
+Loads in area:['+# ¦wiêta Góra']
+===Name:zakurzona ksiêga===
+Area:+# Podwodna jaskinia Sahuaginów
+Vnum:4510
+Type:spellbook
+Loads in mprog:['4503']
+Loads in area:['+# Podwodna jaskinia Sahuaginów']
+===Name:zakurzona ksiêga===
+Area:+# Podwodna jaskinia Sahuaginów
+Vnum:4511
+Type:spellbook
+Loads in mprog:['4502']
+Loads in area:['+# Podwodna jaskinia Sahuaginów']
+===Name:podrêcznik magii kleryckiej===
+Area:+# szko³a - kleryk
+Vnum:34536
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:stara ksiêga===
+Area:B@# NK - Wioska drwali
+Vnum:2232
+Type:spellbook
+Loads in mprog:['2225']
+Loads in area:['B@# NK - Wioska drwali']
+===Name:stara ksiêga===
+Area:+# Dolina Elfów II
+Vnum:6440
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:modlitewnik===
+Area:+# Dolina Elfów II
+Vnum:6442
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:zdobiona ksiêga===
+Area:+# Dolina Elfów II
+Vnum:6482
+Type:spellbook
+Loads in mprog:['gardes_death']
+Loads in area:['+# Zajazd "Pod kasztanami"']
+===Name:modlitewnik===
+Area:+# Dolina Elfów II
+Vnum:6483
+Type:spellbook
+Loads in mprog:['27632_q_greet']
+Loads in area:['+# Obóz wojskowy']
+===Name:zielona ksiêga===
+Area:+# ¦nie¿ne Zaspy
+Vnum:24908
+Type:spellbook
+Loads in mprog:['ent_24914_death']
+Loads in area:['+# ¦nie¿ne Zaspy']
+===Name:pulsuj±ca moc± ksiêga===
+Area:+# ¦nie¿ne Zaspy
+Vnum:24950
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+===Name:szara ksiêga===
+Area:+# Kryjowka zlodziei
+Vnum:1963
+Type:spellbook
+Loads in mprog:[]
+Loads in area:[]
+[Finished in 1.6s]
