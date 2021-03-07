@@ -12,7 +12,7 @@ object SpellbookFinder extends Finder {
     val itemName = itemNameFinder.findFirstMatchIn(item)
     val itemType = itemTypeFinder.findFirstMatchIn(item)
     if (itemType.isDefined && itemName.isDefined) {
-      return Optional.of(new Item(itemName.get.toString, itemType.get.toString))
+      return Optional.of(Item(itemName.get.toString, itemType.get.toString))
     }
     Optional.empty()
   }
